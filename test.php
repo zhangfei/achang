@@ -6,4 +6,5 @@
  */
 echo "Hello Git!";
 echo "add content in v0.1";
+echo "test 2";
 ?>
